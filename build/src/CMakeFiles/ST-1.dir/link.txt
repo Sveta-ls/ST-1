@@ -1,3 +1,0 @@
-"C:\Program Files\CMake\bin\cmake.exe" -E rm -f CMakeFiles\ST-1.dir/objects.a
-C:\msys64\ucrt64\bin\ar.exe qc CMakeFiles\ST-1.dir/objects.a @CMakeFiles\ST-1.dir\objects1.rsp
-C:\msys64\ucrt64\bin\c++.exe -shared -o libST-1.dll -Wl,--out-implib,libST-1.dll.a -Wl,--major-image-version,0,--minor-image-version,0 -Wl,--whole-archive CMakeFiles\ST-1.dir/objects.a -Wl,--no-whole-archive @CMakeFiles\ST-1.dir\linkLibs.rsp
