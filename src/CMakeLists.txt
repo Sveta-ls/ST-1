@@ -11,5 +11,6 @@ add_library(${PROJECT_NAME} SHARED
   
 add_executable(${PROJECT_NAME}.info main.cpp)
 target_link_libraries(${PROJECT_NAME}.info ${PROJECT_NAME})
+add_test(NAME ${PROJECT_NAME}_test COMMAND ${PROJECT_NAME}.test)
 
 #file(COPY ${${PROJECT_NAME}_SOURCE_DIR}/src/checker.py DESTINATION "/home/runner/work/ADS-0/ADS-0")
