@@ -87,6 +87,6 @@ TEST(zyazeva_sumPrime, sumPrime2) {
 TEST(zyazeva_checkPrime, checkPrime5_negative) {
   EXPECT_FALSE(checkPrime(-2));
   EXPECT_FALSE(checkPrime(-34));
-  EXPECT_FALSE(checkPrime(-56));
+  EXPECT_FALSE(checkPrime(-50));
   EXPECT_FALSE(checkPrime(-2525253));
 }
