@@ -1,20 +1,20 @@
-Start testing: Feb 21 22:08 RTZ 2 (çèìà)
+Start testing: Feb 21 22:13 RTZ 2 (çèìà)
 ----------------------------------------------------------
 1/1 Testing: ST-1_test
 1/1 Test: ST-1_test
 Command: "C:/ST-1/build/test/ST-1.test.exe"
 Directory: C:/ST-1/build/src
-"ST-1_test" start time: Feb 21 22:08 RTZ 2 (çèìà)
+"ST-1_test" start time: Feb 21 22:13 RTZ 2 (çèìà)
 Output:
 ----------------------------------------------------------
 [==========] Running 14 tests from 13 test suites.
 [----------] Global test environment set-up.
 [----------] 2 tests from st1
 [ RUN      ] st1.sumPrime1
-[       OK ] st1.sumPrime1 (254 ms)
+[       OK ] st1.sumPrime1 (258 ms)
 [ RUN      ] st1.sumPrime2
 [       OK ] st1.sumPrime2 (0 ms)
-[----------] 2 tests from st1 (254 ms total)
+[----------] 2 tests from st1 (258 ms total)
 
 [----------] 1 test from zyazeva_checkPrime1
 [ RUN      ] zyazeva_checkPrime1.checkPrime1
@@ -77,14 +77,14 @@ Output:
 [----------] 1 test from zyazeva_checkPrime12_negative (0 ms total)
 
 [----------] Global test environment tear-down
-[==========] 14 tests from 13 test suites ran. (256 ms total)
+[==========] 14 tests from 13 test suites ran. (259 ms total)
 [  PASSED  ] 14 tests.
 <end of output>
-Test time =   0.49 sec
+Test time =   0.30 sec
 ----------------------------------------------------------
 Test Passed.
-"ST-1_test" end time: Feb 21 22:08 RTZ 2 (çèìà)
+"ST-1_test" end time: Feb 21 22:13 RTZ 2 (çèìà)
 "ST-1_test" time elapsed: 00:00:00
 ----------------------------------------------------------
 
-End testing: Feb 21 22:08 RTZ 2 (çèìà)
+End testing: Feb 21 22:13 RTZ 2 (çèìà)
