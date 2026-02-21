@@ -1,0 +1,90 @@
+Start testing: Feb 21 22:08 RTZ 2 (çèìà)
+----------------------------------------------------------
+1/1 Testing: ST-1_test
+1/1 Test: ST-1_test
+Command: "C:/ST-1/build/test/ST-1.test.exe"
+Directory: C:/ST-1/build/src
+"ST-1_test" start time: Feb 21 22:08 RTZ 2 (çèìà)
+Output:
+----------------------------------------------------------
+[==========] Running 14 tests from 13 test suites.
+[----------] Global test environment set-up.
+[----------] 2 tests from st1
+[ RUN      ] st1.sumPrime1
+[       OK ] st1.sumPrime1 (254 ms)
+[ RUN      ] st1.sumPrime2
+[       OK ] st1.sumPrime2 (0 ms)
+[----------] 2 tests from st1 (254 ms total)
+
+[----------] 1 test from zyazeva_checkPrime1
+[ RUN      ] zyazeva_checkPrime1.checkPrime1
+[       OK ] zyazeva_checkPrime1.checkPrime1 (0 ms)
+[----------] 1 test from zyazeva_checkPrime1 (0 ms total)
+
+[----------] 1 test from zyazeva_checkPrime2
+[ RUN      ] zyazeva_checkPrime2.checkPrime2
+[       OK ] zyazeva_checkPrime2.checkPrime2 (0 ms)
+[----------] 1 test from zyazeva_checkPrime2 (0 ms total)
+
+[----------] 1 test from zyazeva_checkPrime3
+[ RUN      ] zyazeva_checkPrime3.checkPrime3
+[       OK ] zyazeva_checkPrime3.checkPrime3 (0 ms)
+[----------] 1 test from zyazeva_checkPrime3 (0 ms total)
+
+[----------] 1 test from zyazeva_checkPrime4
+[ RUN      ] zyazeva_checkPrime4.checkPrime4
+[       OK ] zyazeva_checkPrime4.checkPrime4 (0 ms)
+[----------] 1 test from zyazeva_checkPrime4 (0 ms total)
+
+[----------] 1 test from zyazeva_nextPrime5
+[ RUN      ] zyazeva_nextPrime5.nextPrime1
+[       OK ] zyazeva_nextPrime5.nextPrime1 (0 ms)
+[----------] 1 test from zyazeva_nextPrime5 (0 ms total)
+
+[----------] 1 test from zyazeva_nextPrime6
+[ RUN      ] zyazeva_nextPrime6.nextPrime2
+[       OK ] zyazeva_nextPrime6.nextPrime2 (0 ms)
+[----------] 1 test from zyazeva_nextPrime6 (0 ms total)
+
+[----------] 1 test from zyazeva_nextPrime7
+[ RUN      ] zyazeva_nextPrime7.nextPrime3
+[       OK ] zyazeva_nextPrime7.nextPrime3 (0 ms)
+[----------] 1 test from zyazeva_nextPrime7 (0 ms total)
+
+[----------] 1 test from zyazeva_nextPrime8
+[ RUN      ] zyazeva_nextPrime8.nextPrime4
+[       OK ] zyazeva_nextPrime8.nextPrime4 (0 ms)
+[----------] 1 test from zyazeva_nextPrime8 (0 ms total)
+
+[----------] 1 test from zyazeva_nextPrime9
+[ RUN      ] zyazeva_nextPrime9.nextPrime5
+[       OK ] zyazeva_nextPrime9.nextPrime5 (0 ms)
+[----------] 1 test from zyazeva_nextPrime9 (0 ms total)
+
+[----------] 1 test from zyazeva_sumPrime10
+[ RUN      ] zyazeva_sumPrime10.sumPrime1
+[       OK ] zyazeva_sumPrime10.sumPrime1 (0 ms)
+[----------] 1 test from zyazeva_sumPrime10 (0 ms total)
+
+[----------] 1 test from zyazeva_sumPrime11
+[ RUN      ] zyazeva_sumPrime11.sumPrime2
+[       OK ] zyazeva_sumPrime11.sumPrime2 (0 ms)
+[----------] 1 test from zyazeva_sumPrime11 (0 ms total)
+
+[----------] 1 test from zyazeva_checkPrime12_negative
+[ RUN      ] zyazeva_checkPrime12_negative.checkPrime5
+[       OK ] zyazeva_checkPrime12_negative.checkPrime5 (0 ms)
+[----------] 1 test from zyazeva_checkPrime12_negative (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 14 tests from 13 test suites ran. (256 ms total)
+[  PASSED  ] 14 tests.
+<end of output>
+Test time =   0.49 sec
+----------------------------------------------------------
+Test Passed.
+"ST-1_test" end time: Feb 21 22:08 RTZ 2 (çèìà)
+"ST-1_test" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Feb 21 22:08 RTZ 2 (çèìà)
